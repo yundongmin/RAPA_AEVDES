@@ -1,0 +1,24 @@
+# Private raw datasets & media
+*.zip
+*.mp3
+*.mp4
+*.wav
+*.set
+data/raw/
+data/private/
+!data/sample_metadata.csv
+
+# Generated outputs & local caches
+results/*
+!results/.gitkeep
+*.npz
+*oof_predictions.csv
+
+# Python & IDE
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+.vscode/
+.idea/

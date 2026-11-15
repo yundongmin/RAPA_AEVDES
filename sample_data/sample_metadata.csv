@@ -1,0 +1,6 @@
+audio_path,video_path,participant_id,labels
+data/audio/02-03-01-01-01-01-01.mp3,data/video/01-03-01-01-01-01-01.mp4,Participant_01,03
+data/audio/02-03-02-02-02-01-01.mp3,data/video/01-03-02-02-02-01-01.mp4,Participant_01,03|04
+data/audio/02-04-01-01-01-01-02.mp3,data/video/01-04-01-01-01-01-02.mp4,Participant_02,04
+data/audio/02-04-02-02-02-01-02.mp3,data/video/01-04-02-02-02-01-02.mp4,Participant_02,04|05
+data/audio/02-05-01-02-01-01-03.mp3,data/video/01-05-01-02-01-01-03.mp4,Participant_03,05
