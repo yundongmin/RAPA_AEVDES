@@ -189,7 +189,7 @@ python src/bpm_quality_check.py --input /path/to/BPM_Folder --output results/bpm
 
 ---
 
-## 7. Implementation Notes & Limitations.
+## 7. Implementation Notes & Limitations
 
 - **개인정보 및 원본 데이터 보호:** 대면 인터뷰 참가자의 얼굴 영상(MP4)과 원본 음성(MP3)은 연구윤리(IRB) 및 초상권 보호 기준에 따라 공개 저장소에 포함하지 않았으며, `sample_data/sample_metadata.csv`를 통해 데이터 인터페이스와 다중 라벨 구조를 확인할 수 있습니다.
 - **후속 코호트 표준화 기여:** 초기 30명 코호트에서 규명한 파일 명명 불일치(5번째 중복 토큰 오류), 녹음 무음(10건), 센서별 수집 범위 편차 및 시간축 스케일 점검 기준은 후속 대규모 코호트(90명 확장 수집) 데이터셋의 수집·검수 표준화 근거로 활용되었습니다.
